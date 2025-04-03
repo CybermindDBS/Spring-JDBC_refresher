@@ -1,0 +1,22 @@
+TOPICS COVERED
+
+Maven:-
+1. Exclusions (in pom.xml)
+
+Spring boot:-
+1. Expression language in Spring boot (in @Value annotation).
+2. @ConfigurationProperties, @Value Annotations
+3. Profiles in Spring boot
+
+Spring boot JDBC:-
+1. JDBCTemplate
+2. RowMapper Interface, BeanPropertyRowMapper class, ResultSetExtractor interface, RowMapperResultSetExtractor class, RowCallbackHandler interface.
+
+TOPICS NOT COVERED
+1. Batch operation with JdbcTemplate.
+2. SimpleJdbcCall - To call stored procedures.
+3. @Transactional
+
+TOPICS SKIPPED
+1. NamedParameterJdbcTemplate
+2. DataAccessException
